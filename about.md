@@ -18,6 +18,7 @@ including VR/AR, different morphs of robots (arm, hand, suit, quadrupedal, under
 
 Ultimately, we wish to promote automation and reshape workforce in and beyond the civil engineering area with robots and human-centered AI. 
 
+### Hiring
 If this future excites you, **welcome to join**. We are recuiting **Ph.D. students** on rolling basis. Bachelors, masters, or visiting Ph.D. are also welcomed to work in our lab. 
 Drop me an email at **gilbert.yangye@gmail.com** with your (1) CV, (2) cover letter, and (3) transcripts. 
 Please highlight your qualifications and describe your motivation in your cover letter. 
