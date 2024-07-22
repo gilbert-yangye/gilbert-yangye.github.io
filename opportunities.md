@@ -21,17 +21,18 @@ Ultimately, we wish to promote automation and reshape workforce in and beyond th
 
 ### Ph.D. Hiring
 We are recuiting **Ph.D. students** on rolling basis. Please drop me an email at **gilbert.application@gmail.com** with your:
-	(1) CV, including your GPA and preferably ranking as well as a summary of your past research experience and publications;
-	(2) cover letter, highlight your qualifications and describe your motivation. 
-	(3) transcripts.
+- CV, including your GPA and preferably ranking as well as a summary of your past research experience and publications;
+- cover letter, highlight your qualifications and describe your motivation. 
+- transcripts.
 A brief research statement (~ 1 page) stating a research problem of your choice and outlining your proposed approaches based on existing literature is recommended but not required.
 
 Minimum requirements for PhD applicants:
-	(1). GPA should be above 3.6/4.0 during both undergrad and master education. 
-	(2). Have a background in mechanical engineering, electrical engineering, computer science, industrial engineering, civil engineering, or other related fields. 
-	(3). Have coding experience in one or more of the programming languages: Python, C++, C#. 
-	(4). Be motivated about research and showcase excellent communication skills.
-	(5). Fulfill the general requirements for doctoral admissions listed by Northeastern University (https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/).
+- GPA should be above 3.6/4.0 during both undergrad and master education. 
+- Have a background in mechanical engineering, electrical engineering, computer science, industrial engineering, civil engineering, or other related fields. 
+- Have coding experience in one or more of the programming languages: Python, C++, C#. 
+- Be motivated about research and showcase excellent communication skills.
+- Fulfill the general requirements for doctoral admissions listed by [Northeastern University](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/).
+
 Minimum requirements may be waived if you have demonstrated outstanding research potential/achievements, or if you are supported by fundings. 
 
 See the poster below for details.
@@ -47,9 +48,8 @@ If you are interested in postdoctoral opportunities, please e-mail me with the s
 If you do not provide these items, I am not able to respond to your e-mail. Interested scholars are encouraged to contact me and co-apply for postdoc fellowships (there are a lot of postdoc fellowship opportunities! See application guidance).
 
 #### Funding
-All Ph.D. students and postdocs are funded as long as they are making satisfactory progress. 
-Funding includes all tuition, insurance, plus a stipend for living expenses. 
+All Ph.D. students and postdocs are funded. Funding includes all tuition, insurance, plus a stipend for living expenses. 
 The good news is that Ph.D. students and postdocs can pursue their academic goals without a significant financial burden. 
-The challenge is that your prospective advisor must secure adequate funding (over $250k for a Ph.D.) in order to make an admission offer. 
+The challenge is that your prospective advisor must secure adequate funding in order to make an admission offer. 
 If you have external fellowship funding or are planning to apply for one, please make that clear in your application as it makes it SIGNIFICANTLY easier for an advisor to commit to admitting you. 
 You are encouraged to explore possible external fundings (for both Ph.D. and Postdoc).
