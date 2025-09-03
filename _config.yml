@@ -1,11 +1,8 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
 
 # Basic
-name:               "Ye Lab"
-title:              "Ye Lab at Northeastern University"
-description:        "The Ye Lab is a automation in civil engineering reseasrch group at Northeastern University."
+name:               "Cognitive Robotics & AI for Field Technology (CRAFT) Lab"
+title:              "CRAFT Lab at Northeastern University"
+description:        "The CRAFT Lab is a research group at Northeastern University."
 
 
 # URL
@@ -26,10 +23,10 @@ nav:
     href:           "/"
   - name:           "opportunities"
     href:           "/opportunities"
-#  - name:           "about"
-#    href:           "/about"
-  - name:           "publications"
-    href:           "/publication"
+  #- name:           "about"
+  #  href:           "/about"
+  #- name:           "publications"
+  #  href:           "/publication"
   - name:           "people"
     href:           "/people"
 #   - name:           "abstracts"

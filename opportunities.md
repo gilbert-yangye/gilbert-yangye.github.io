@@ -4,32 +4,31 @@ permalink: /opportunities/
 ---
 
 ### About PI
-I am Dr. **Yang (Gilbert) Ye**. I am an **Assistant Professor** in the Department of Civil and Environmental Engineering at **Northeastern University**. I am a researcher and engineer in the field of human-robot interaction and robotics for resilient infrastructures in civil engineering. 
-I obtained my Ph.D. from the Department of Civil & Coastal Engineering at the University of Florida under the supervision of Dr. Eric Jing Du. My research focuses on automation and workforce engagement in civil engineering with advanced robotics, 
-human-centric artificial intelligence, and human-robot interaction methods inspired by human sensorimotor processes. 
+I am Dr. **Yang (Gilbert) Ye**. I am an **Assistant Professor** in the Department of Civil and Environmental Engineering at **Northeastern University**. I am a researcher and engineer in the field of human-robot interaction and robotics for resilient infrastructures in civil engineering.
 
 ### Research
-Our research centers around automation, human-robot interaction, AI, and human-assistive technology in civil engineering environments. 
-This cross-disciplinary journey has been and will be very interesting with exposures to cutting-edge technologies, 
-including VR/AR, different morphs of robots (arm, hand, suit, quadrupedal, underwater, in-the-air), AI and machine learning, human physiological sensing... and more!
-
-Ultimately, we wish to promote automation and reshape workforce in and beyond the civil engineering area with robots and human-centered AI. 
+Our research centers around automation, human-robot interaction, AI, cognition science, and human-assistive technology in complex environments like civil infrastructure. 
+This cross-disciplinary journey has been and will be very interesting with exposures to cutting-edge technologies, including VR/AR, different morphs of robots (arm, hand, suit, quadrupedal, underwater, in-the-air), AI and machine learning, human physiological sensing... and more! Ultimately, we wish to promote automation and reshape workforce in and beyond the civil engineering area with robots and human-centered AI. 
 
 
 ### Ph.D. Hiring
-We are recuiting **Ph.D. students** on rolling basis. Please drop me an email at **gilbert.application@gmail.com** with your:
-- CV, including your GPA and preferably ranking as well as a summary of your past research experience and publications;
-- cover letter, highlight your qualifications and describe your motivation. 
-- transcripts.
+We are recruiting **Ph.D. students** on a rolling basis. Please drop me an email at **gilbert.application@gmail.com** with your:
+- CV, including your GPA, ranking, and a summary of your past research experience and publications;
+- Cover letter that describes your motivation and research interest.
 
-Minimum requirements for PhD applicants:
-- GPA should be above 3.5/4.0 during both undergrad and master education, or with proper justification. 
-- Have a background in civil engineering, mechanical engineering, electrical engineering, computer science, industrial engineering, or other related fields. 
-- Have coding experience in one or more of the programming languages: Python, C++, C#. 
+**Minimum** requirements for PhD applicants:
+- GPA should be above 3.5/4.0 during both undergrad and master's education, or with proper justification. 
+- Education in civil engineering, industrial engineering, mechanical engineering, electrical engineering, computer science, or other related fields. 
+- Coding skills in one or more of the programming languages: Python, C++, C#. 
 - Be motivated about research and showcase excellent communication skills.
 - Fulfill the general requirements for doctoral admissions listed by [Northeastern University](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/).
 
-Minimum requirements may be waived if you have demonstrated outstanding research potential/achievements, or if you are supported by fundings. 
+**Preferred** qualifications:
+- Publications. 
+- Master's degree.
+- Demonstrated experience in independent research.
+
+To reward your attention, include the magic word 'Eureka' in the email subject line.
 
 #### Research Opportunities for undergraduate/master students
 If you are a current undergraduate/master student, you are very welcomed to reach out for research opportunites or thesis advisory. 
@@ -43,5 +42,5 @@ Interested scholars are encouraged to contact me and co-apply for postdoc fellow
 All Ph.D. students and postdocs are funded. Funding includes all tuition, insurance, plus a stipend for living expenses. 
 The good news is that Ph.D. students and postdocs can pursue their academic goals without a significant financial burden. 
 The challenge is that your prospective advisor must secure adequate funding in order to make an admission offer. 
-If you have external fellowship funding or are planning to apply for one, please make that clear in your application as it makes it SIGNIFICANTLY easier for an advisor to commit to admitting you. 
-You are encouraged to explore possible external fundings (for both Ph.D. and Postdoc).
+If you have external fellowship funding or are planning to apply for one, please make that clear in your application, as it makes it SIGNIFICANTLY easier for an advisor to commit to admitting you. 
+You are encouraged to explore possible external funding (for both Ph.D. and Postdoc).
