@@ -28,8 +28,6 @@ We are recruiting **Ph.D. students** on a rolling basis. Please drop me an email
 - Master's degree.
 - Demonstrated experience in independent research.
 
-To reward your attention, include the magic word 'Eureka' in the email subject line.
-
 #### Research Opportunities for undergraduate/master students
 If you are a current undergraduate/master student, you are very welcomed to reach out for research opportunites or thesis advisory. 
 Please contact me at **gilbert.application@gmail.com** with your transcript and a short cover letter that briefly introduces your background, availability, and interests.
