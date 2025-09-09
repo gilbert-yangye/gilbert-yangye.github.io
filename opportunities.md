@@ -23,6 +23,8 @@ We are recruiting **Ph.D. students** on a rolling basis. Please drop me an email
 - Be motivated about research and showcase excellent communication skills.
 - Fulfill the general requirements for doctoral admissions listed by [Northeastern University](https://coe.northeastern.edu/academics-experiential-learning/graduate-school-of-engineering/graduate-admissions/).
 
+Note that due to the high volume of applications, I cannot respond to all emails. 
+
 **Preferred** qualifications:
 - Publications. 
 - Master's degree.
